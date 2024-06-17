@@ -11,6 +11,7 @@
 
 // git add .
 // git commit -m "messag"
+// git push -u origin main (First Time)
 // git push origin main
 
 import inquirer from "inquirer";

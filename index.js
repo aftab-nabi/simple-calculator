@@ -6,6 +6,7 @@
 //.gitignore (Add folder/file names to ignore)
 // git add .
 // git commit -m "messag"
+// git push -u origin main (First Time)
 // git push origin main
 import inquirer from "inquirer";
 // npm install inquirer
