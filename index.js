@@ -2,6 +2,11 @@
 // npm login in cmd
 // npm publish in cmd
 // npx (name of package) published on npm
+//git init
+//.gitignore (Add folder/file names to ignore)
+// git add .
+// git commit -m "messag"
+// git push origin main
 import inquirer from "inquirer";
 // npm install inquirer
 // npm install --save-dev @types/inquirer
